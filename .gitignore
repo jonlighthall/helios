@@ -1,0 +1,21 @@
+# Compiled Object files
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Emacs temporary files
+*~
+\#*#
+
+# Linked directories
+/*data
+
+# ROOT files
+*.root
+
+# Temporary lists
+*.lst
+*.txt
+*.cal
+*.dat
